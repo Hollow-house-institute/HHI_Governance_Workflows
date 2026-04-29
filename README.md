@@ -1,3 +1,4 @@
+
 # HHI Governance Workflows
 
 ## Purpose
@@ -66,6 +67,17 @@ This repository is governed under the Hollow House Institute Master License Suit
 https://github.com/Hollow-house-institute/Master_License_Suite
 
 No rights are granted beyond those explicitly defined.
+
+## Status: NON-CANONICAL (DEVELOPMENT ONLY)
+
+Canonical source:
+https://github.com/Hollow-house-institute/HHI_Governance_Workflows
+
+Not valid for audit, licensing, or enforcement.
+
+---
+
+ (mark: non-canonical dev repo)
 
 ## Enforcement Statement
 
