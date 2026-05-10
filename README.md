@@ -39,7 +39,7 @@ SYSTEM MAP:
 https://github.com/Hollow-house-institute/HHI_GOV_01/blob/main/SYSTEM_MAP.md
 
 DOI:
-https://doi.org/10.5281/zenodo.18615600
+https://doi.org/10.5281/zenodo.1876466
 
 ORCID:
 https://orcid.org/0009-0009-4806-1949
@@ -53,7 +53,7 @@ Governance Standard: https://github.com/Hollow-house-institute/HHI_GOV_01
 
 SYSTEM MAP: https://github.com/Hollow-house-institute/HHI_GOV_01/blob/main/SYSTEM_MAP.md
 
-DOI: https://doi.org/10.5281/zenodo.18615600
+DOI: https://doi.org/10.5281/zenodo.1876466
 
 ORCID: https://orcid.org/0009-0009-4806-1949
 
